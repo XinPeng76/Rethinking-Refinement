@@ -17,11 +17,7 @@ This project aims to systematically re-examine refinement strategies and provide
 
 This repository is developed with reference to the following excellent projects:
 
-- **Flow Perturbation**  
-  https://github.com/XinPeng76/Flow_Perturbation
-
-- **Conditional Flow Matching**  
-  https://github.com/atong01/conditional-flow-matching
+link to be released after the review period
 
 We sincerely thank the authors for making their code publicly available.
 
@@ -38,4 +34,5 @@ Please check back later for a complete user guide and example scripts.
 ---
 
 ## 📂 Repository Structure (Tentative)
+
 
