@@ -38,6 +38,9 @@ Please check back later for a complete user guide, modularized code structure, a
 
 ## 📂 Repository Structure (Tentative)
 
+<<<<<<< HEAD
 The repository structure will be reorganized in future versions to improve clarity and maintainability.
 
+=======
+>>>>>>> ed87a9e37284d2dc1343e577d4482b842530c9c3
 
