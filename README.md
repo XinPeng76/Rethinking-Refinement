@@ -31,6 +31,10 @@ We sincerely thank the authors for making their code publicly available.
 - 🔧 Refactoring and modularization: **planned**
 - ⏳ Detailed documentation and tutorials: **updating**
 - ⏳ Reproducible experiments and configurations: **updating**
+- ✅ **CIFAR-10**: Implementation available
+- ⏳ **MNIST**: Implementation in preparation
+- ⏳ **FFHQ (256×256)**: Implementation under preparation
+- ⏳ **Molecular datasets**: Implementation being organized
 
 Please check back later for a complete user guide, modularized code structure, and example scripts.
 
@@ -38,9 +42,14 @@ Please check back later for a complete user guide, modularized code structure, a
 
 ## 📂 Repository Structure (Tentative)
 
-<<<<<<< HEAD
-The repository structure will be reorganized in future versions to improve clarity and maintainability.
+The repository structure will be reorganized in future versions to improve clarity and maintainability.  
 
-=======
->>>>>>> ed87a9e37284d2dc1343e577d4482b842530c9c3
+**Current dataset implementations:**  
+- ✅ **CIFAR-10**: Implementation and example scripts are now available.  
+- ⏳ **MNIST**: Implementation is being prepared.  
+- ⏳ **FFHQ (256×256)**: Implementation is under preparation.  
+- ⏳ **Molecular datasets**: Implementation and example scripts are being organized.  
+
+Please check back later for fully integrated examples and updated configurations for all datasets.
+
 
