@@ -78,13 +78,11 @@ def gen_1_img(unused_latent):
     global x0_index
     
     with torch.no_grad():
-        # 从 x0 里依次取 batch
         start = x0_index
         end = start + FLAGS.batch_size
         x = x0[start:end].to(device)
         y = label0[start:end].to(device)
 
-        # 更新索引，如果超过长度则循环回到 0
         x0_index = end % len(x0)
         model_ = lambda t, x, args=None: net(t, x, y)
         if FLAGS.integration_method == "euler":
