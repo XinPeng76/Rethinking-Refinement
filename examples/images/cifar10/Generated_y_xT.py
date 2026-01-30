@@ -29,7 +29,6 @@ flags.DEFINE_integer("batch_size", 1024, help="Batch size for sampling")
 flags.DEFINE_string("save_path", "./generated_images_y_xT.npz", help="Path to save the generated npz file")
 
 FLAGS(sys.argv)
-# base FID:4.75
 # Set device (GPU if available)
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
