@@ -1,7 +1,4 @@
-# Inspired from https://github.com/w86763777/pytorch-ddpm/tree/master.
 
-# Authors: Kilian Fatras
-#          Alexander Tong
 
 import copy
 import os
